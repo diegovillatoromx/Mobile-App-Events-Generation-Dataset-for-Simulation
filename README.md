@@ -3,7 +3,7 @@ The project focuses on generating realistic and relevant data for various events
 
 
 ```css 
-/dataset-simulator  
+/apps_events_dataset 
 │
 ├── /dataset
 │   ├── raw_data/               # Folder for unprocessed data
